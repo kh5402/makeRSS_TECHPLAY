@@ -2,25 +2,41 @@
 <rss version="2.0">
   
   
+  
+  
   <channel>
+    
+    
     
     
     <title>TECH PLAYの特定のキーワードを含むRSS</title>
     
     
+    
+    
     <description>TECH PLAYから特定のキーワードを含む記事を提供します。</description>
+    
+    
     
     
     <link>https://example.com</link>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>今さら聞けない「ChatGPT」の使い方、業務でライバルに差をつけるテクニック</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923610</link>
+      
+      
       
       
       <description>
@@ -41,19 +57,31 @@ ChatGPTの操作方法、応用、テクニックなどを具体的な事例で�
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 09:27:41 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>衛生管理のミスが食と御社の安全を脅かす！品質向上と効率的な管理を学ぶ</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923609</link>
+      
+      
       
       
       <description>
@@ -67,19 +95,31 @@ ChatGPTの操作方法、応用、テクニックなどを具体的な事例で�
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 09:25:44 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>製造業✕ChatGPT 安全かつ効率的に活用するためのリスクヘッジ戦略</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923543</link>
+      
+      
       
       
       <description>
@@ -98,19 +138,31 @@ ChatGPTの具体的なビジネス活用法を知りたい方
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 05:30:12 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【明日から始める製造業の現場DX】                                                                                                                                     IoT活用例から学ぶ工場や施設など“現場”業務管理の効率化</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923536</link>
+      
+      
       
       
       <description>
@@ -123,19 +175,31 @@ ChatGPTの具体的なビジネス活用法を知りたい方
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 04:39:54 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>FUJITSU Career Meetup #4 ～キャリア入社者が語る、富士通で働く魅力とMobility業界でのチャレンジ～</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923538</link>
+      
+      
       
       
       <description>
@@ -149,19 +213,31 @@ ChatGPTの具体的なビジネス活用法を知りたい方
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 04:14:37 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【見逃し無料配信】乗り遅れないためのChatGPTビジネス活用術</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923533</link>
+      
+      
       
       
       <description>
@@ -182,19 +258,31 @@ ChatGPTとは・自然言語で対話ができるチャットサービス・Cha.
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 03:00:18 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【無料オンライン】「ローカル5Gエコシステムとデータ活用で加速するDX</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923448</link>
+      
+      
       
       
       <description>
@@ -210,19 +298,31 @@ DX（デジタルトランスフォーメーション）では、大量のデー
             </description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 00:00:15 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>SaaS同士の連携が月額5万円で実現！今まで諦めていたシステム連携を可能にしてDXを推進</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923462</link>
+      
+      
       
       
       <description>
@@ -242,19 +342,31 @@ iPaaSの実際の活用事例が知りたい方
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 09:27:53 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>RPA導入で約100時間/月の工数削減を実現！バックオフィス業務を自動化し、業務効率化に成功した事例とRPAロボ作成法を徹底解説</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923461</link>
+      
+      
       
       
       <description>
@@ -272,19 +384,31 @@ RPAを活用して約100時間/月の工数を削減する方法を知りたい�
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 09:22:03 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>IT導入補助金の採択率98%を越える実績から、最新の申請方法や事例を徹底解説</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923460</link>
+      
+      
       
       
       <description>
@@ -307,19 +431,31 @@ IT導入補助金2023後期の最新情報
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 09:14:07 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>BricsCAD/ACAD-DENKI 新バージョン発表　図研アルファテックカンファレンス</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923455</link>
+      
+      
       
       
       <description>
@@ -332,19 +468,31 @@ IT導入補助金2023後期の最新情報
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 08:51:46 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>ネットワーク自動化を実現させた4つの秘訣と事例　[ 経営者・管理職向け ]</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923453</link>
+      
+      
       
       
       <description>
@@ -354,19 +502,31 @@ IT導入補助金2023後期の最新情報
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 07:56:49 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>ネットワーク自動化を実現させた4つの秘訣と事例　[ 経営者・管理職向け ]</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923452</link>
+      
+      
       
       
       <description>
@@ -376,19 +536,31 @@ IT導入補助金2023後期の最新情報
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 07:55:06 GMT</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>GUI テスト自動化ツール オンライン セミナー - 2023/10/25</title>
       
       
+      
+      
       <link>https://techplay.jp/event/923451</link>
+      
+      
       
       
       <description>
@@ -398,13 +570,21 @@ IT導入補助金2023後期の最新情報
             </description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 07:44:15 GMT</pubDate>
       
+      
+    
     
     </item>
     
+    
+  
   
   </channel>
   
+  
+
 
 </rss>
