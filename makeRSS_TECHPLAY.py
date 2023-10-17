@@ -5,7 +5,7 @@ from xml.dom import minidom
 import os
 
 def main():
-    output_file = "makeRSS_TECKPLAY.xml"
+    output_file = "makeRSS_TECHPLAY.xml"
     feed_url = "https://rss.techplay.jp/event/w3c-rss-format/rss.xml"
     include_words = ["生成AI", "ChatGPT", "DX", "自動化", "RPA", "ノーコード", "ローコード", "人工知能"]
 
