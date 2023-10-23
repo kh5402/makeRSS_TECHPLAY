@@ -54,6 +54,10 @@ def main():
 
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
 
+    # 空白行を取り除く
+    xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
+
+
     with open(output_file, "w") as f:
         f.write(xml_pretty_str)
 
