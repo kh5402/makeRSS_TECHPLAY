@@ -1033,5 +1033,16 @@ Foritgate、シリアルケーブル、LANケーブル、PCをこちらで...
             </description>
       <pubDate>Mon, 06 Nov 2023 02:51:43 GMT</pubDate>
     </item>
+    <item>
+      <title>DevSecOpsの次の一手はシークレット管理ソリューションVault ～様々なサービスのシークレット管理を一元化・自動化し、セキュリティリスクを大幅に削減～</title>
+      <link>https://techplay.jp/event/925668</link>
+      <description>
+                    日時:2023/12/06(水)15:00:00〜16:00:00 会場:オンライン DevSecOpsの次の一手はシークレット管理ソリューションVault～様々なサービスのシークレット管理を一元化・自動化し、セキュリティリスクを大幅に削減～
+概要
+昨今、企業のシステム環境はIaaS、PaaS、SaaS、オンプレと複雑性を増し、シークレット管理のリスクが高まっています。シークレット管理を原因としたセキュリティインシデントなども起きており、人に頼らない新たな手法が求められています。そこで注目されているのがHashiCorp社が提供するシークレット管理を自動化する「HashiCorp Vault」で、これを利用することで、セキュリティ向上と大幅な運用効率化が可能です。
+また、...
+            </description>
+      <pubDate>Mon, 06 Nov 2023 03:17:06 GMT</pubDate>
+    </item>
   </channel>
 </rss>
