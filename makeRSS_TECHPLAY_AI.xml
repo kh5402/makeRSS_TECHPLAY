@@ -1359,5 +1359,29 @@ DXのハイライトの1つであるCDP構築。これまで散らばってい�
             </description>
       <pubDate>Fri, 10 Nov 2023 04:45:59 GMT</pubDate>
     </item>
+    <item>
+      <title>【無料オンライン】データ処理の新たなフロンティア：SnowflakeとAlteryx Cloudによる次世代ビジネスインサイト</title>
+      <link>https://techplay.jp/event/926211</link>
+      <description>
+                    日時:2023/12/12(火)15:00:00〜16:00:00 会場:オンライン データ処理の新たなフロンティア：SnowflakeとAlteryx Cloudによる次世代ビジネスインサイト
+概要
+DX化の推進は、企業の発展に必要不可欠なものとなっておりますが、DX化を進めるにあたり、デジタル人材の必要性は高まっている一方、データ分析やAIを扱える人材は不足しています。また、近年、データ量はますます増加の一途をたどり、オンプレミス型のデータウェアハウスやリレーショナル・データベースではデータの活用が難しくなってきました。
+本ウェビナーでは、クラウド型データウェアハウスとして最近非常に活用が進んでいる「Snowflake」をご紹介します。また、Snowflake内のデー...
+            </description>
+      <pubDate>Fri, 10 Nov 2023 06:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins / オンプレミスユーザーのためのクラウドCI/CD・CircleCI入門</title>
+      <link>https://techplay.jp/event/926212</link>
+      <description>
+                    日時:2023/11/22(水)14:00:00〜15:00:00 会場:オンライン Jenkins/オンプレミスユーザーのためのクラウドCI/CD・CircleCI入門
+概要
+継続的インテグレーション・継続的デリバリー ( CI/CD) ツールとしてJenkinsやオンプレミスCI/CDをご使用の方で、メンテナンスをもっと効率にしたいとお困りですか？CircleCI入門セミナーで、クラウドCI/CDのメリットや使い方の違いなどをわかりやすく解説します。
+クラウドCI/CDについて知りたい、もっとテスト自動化プロセスを効率化して、開発効率スピードを速く、安定させたいという方にお勧めのセミナーです。
+＜セミナーの内容＞
+継続的インテグレーション (CI)とCircleCI...
+            </description>
+      <pubDate>Fri, 10 Nov 2023 05:34:25 GMT</pubDate>
+    </item>
   </channel>
 </rss>
